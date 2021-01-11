@@ -1,0 +1,18 @@
+{
+  "name": "old-school",
+  "version": "1.0.0",
+  "description": "How To Reduce Redux Boilerplate: The Old School",
+  "main": "index.js",
+  "author": "Antoni Pelka",
+  "license": "MIT",
+  "scripts": {
+    "old-school": "node old-school/index.js",
+    "custom-helpers": "node custom-helpers/index.js",
+    "redux-toolkit": "node redux-toolkit/index.js"
+  },
+  "dependencies": {
+    "@reduxjs/toolkit": "^1.5.0",
+    "redux": "^4.0.5"
+  },
+  "type": "module"
+}
