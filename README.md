@@ -1,4 +1,4 @@
-# *"How to reduce Redux boilerplate?"* Reference Code
+# [*"How to reduce Redux boilerplate?"*](https://medium.com/leocode/how-to-reduce-redux-boilerplate-c749178a280a?source=github) Reference Code
 
 ## Setup
 ```
